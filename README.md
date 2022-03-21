@@ -8,9 +8,9 @@ Redirects opened URLs and files from Firefox to Firefox Private Browsing
 1. Enjoy the redirections! 🥳
 
 ## Screenshots
-![Windows browser settings]()
-![Windows default app settings]()
-![Windows uninstall settings]()
+![Windows default app settings](https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20default%20app%20settings.png)
+![Windows default app popup](https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20default%20app%20popup.png)
+![Windows uninstall settings](https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20uninstall%20settings.png)
 
 ## How do I compile this app?
 1. Download and install the [latest version of AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe)
