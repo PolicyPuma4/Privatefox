@@ -74,6 +74,11 @@ if (FLAG = "uninstall")
 }
 
 FIREFOX_PATHS := [LOCALAPPDATA "\Mozilla Firefox\firefox.exe", PROGRAMS "\Mozilla Firefox\firefox.exe"]
+RegRead, FIREFOX_STORE, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\firefox.exe
+if (not ErrorLevel)
+{
+  FIREFOX_PATHS.Push(FIREFOX_STORE)
+}
 for _, PATH in FIREFOX_PATHS
 {
   if (FileExist(PATH))
