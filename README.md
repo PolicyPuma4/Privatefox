@@ -2,7 +2,7 @@
 Redirects opened URLs and files from Firefox to Firefox Private Browsing
 
 ## How do I install this app?
-1. Download the latest executable (file ending with .exe) from the [latest release](https://github.com/PolicyPuma4/Command-Prompt-context-menu/releases/latest)
+1. Download the latest executable (file ending with .exe) from the [latest release](https://github.com/PolicyPuma4/Privatefox/releases/latest)
 1. Run the executable
 1. Change your default browser in the Windows settings to Privatefox
 1. Enjoy the redirections! 🥳
