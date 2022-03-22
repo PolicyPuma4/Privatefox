@@ -51,7 +51,7 @@ if (not FLAG)
   RegWrite, REG_SZ, HKEY_CURRENT_USER\SOFTWARE\Clients\StartMenuInternet\Privatefox\DefaultIcon, , % """" INSTALL_FULL_PATH """"
   RegWrite, REG_SZ, HKEY_CURRENT_USER\SOFTWARE\Clients\StartMenuInternet\Privatefox\shell\open\command, , % """" INSTALL_FULL_PATH """ run"
 
-  MsgBox, Installation complete.
+  MsgBox, Install complete.
 
   ExitApp
 }
