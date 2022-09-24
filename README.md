@@ -17,6 +17,3 @@ Redirects opened URLs and files from Firefox to Firefox Private Browsing
 1. [Download](https://github.com/PolicyPuma4/Privatefox/archive/main.zip) or clone this repository
 1. Open the context menu on [`Privatefox.ahk`](https://github.com/PolicyPuma4/Privatefox/blob/main/Privatefox.ahk) and select `Compile Script`
 1. Enjoy your newly compiled app! 🥳
-
-### License
-I ain't a lawyer, feel free to modify and redistribute this app however please **do not** remove the credits 🙃
