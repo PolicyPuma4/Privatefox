@@ -1,5 +1,5 @@
 # Privatefox
-Redirects opened URLs and files from Firefox to Firefox Private Browsing
+Opens links from external apps in Firefox Private Browsing
 
 ## How do I install this app?
 1. [Download](https://github.com/PolicyPuma4/Privatefox/releases/latest/download/Privatefox_Setup.exe) and install the latest release
