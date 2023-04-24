@@ -23,7 +23,7 @@ DefaultGroupName={#MyAppName}
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputBaseFilename=Privatefox_Setup
-SetupIconFile=E:\Downloads\privatefox\firefox_2.ico
+SetupIconFile=firefox_2.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
