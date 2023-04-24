@@ -7,7 +7,7 @@ Opens links from external apps in Firefox Private Browsing
 1. Enjoy the redirections! 🥳
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20default%20app%20settings.png" height="501"><img src="https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20uninstall%20settings.png" height="501">
+<img src="https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20default%20app%20settings.png" width="641" height="501"><img src="https://raw.githubusercontent.com/PolicyPuma4/Privatefox/main/Screenshots/Windows%20uninstall%20settings.png" width="641" height="501">
 
 ## How do I compile this app?
 1. Download and install [Build Tools for Visual Studio 2022](https://aka.ms/vs/17/release/vs_BuildTools.exe)
